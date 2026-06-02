@@ -1,0 +1,41 @@
+body {
+  background-color:black;
+  margin: 20px;
+}
+form{
+  color:white;
+}
+h1{
+
+  color:white;
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  margin:30px;
+}
+h2{
+    color:white;
+    font-family:'sans-serif', Arial, Helvetica, sans-serif;
+    text-align: center; 
+    margin: 20px
+}
+p{
+  color:white;
+  font-family:'popins', sans-serif;
+  text-align:center; 
+}
+label{
+  color:white;
+
+}
+button{
+  color:white;
+}
+input{
+  color:white;
+}
+select{
+  color:white;
+}   
+output{
+  color:white;
+}
